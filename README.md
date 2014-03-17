@@ -1,7 +1,7 @@
 Ruby Beautifier
 ===============
 
-Trying to keep this nice ruby beautifier tool from way back up to date.
+Trying to keep this nice ruby beautifier tool (from way back) up to date.
 
 It will format ruby files to make them look good indentation wise, etc.  It's
 kind of like go format, but for ruby (though it does not parse the program
